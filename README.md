@@ -102,9 +102,8 @@ Carbon (kg CO₂e) = Energy (kWh) × Emission Factor
 
 ---
 
-##Authors
+## Authors
 
 Aathif, Paras, Vetri, Sanket
-Both the electricity tariff and emission factor are **configurable**.
 
 ---
